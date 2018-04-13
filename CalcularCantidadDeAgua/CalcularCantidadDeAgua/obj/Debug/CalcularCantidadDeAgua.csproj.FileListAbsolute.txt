@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2012\Projects\CalcularCantidadDeAgua\CalcularCantidadDeAgua\bin\Debug\CalcularCantidadDeAgua.exe.config
+c:\users\dell\documents\visual studio 2012\Projects\CalcularCantidadDeAgua\CalcularCantidadDeAgua\bin\Debug\CalcularCantidadDeAgua.exe
+c:\users\dell\documents\visual studio 2012\Projects\CalcularCantidadDeAgua\CalcularCantidadDeAgua\bin\Debug\CalcularCantidadDeAgua.pdb
+c:\users\dell\documents\visual studio 2012\Projects\CalcularCantidadDeAgua\CalcularCantidadDeAgua\obj\Debug\CalcularCantidadDeAgua.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2012\Projects\CalcularCantidadDeAgua\CalcularCantidadDeAgua\obj\Debug\CalcularCantidadDeAgua.exe
+c:\users\dell\documents\visual studio 2012\Projects\CalcularCantidadDeAgua\CalcularCantidadDeAgua\obj\Debug\CalcularCantidadDeAgua.pdb
